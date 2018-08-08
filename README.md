@@ -3,15 +3,15 @@
 Unofficial tool to inflate custom data models as well as append fields to existing models from a JSON file.
 
 Built with:
-# Node.js v8.11.3
-# Babel Node v6.26
-# Schema NODE client v3.0.11
+* Node.js v8.11.3
+* Babel Node v6.26
+* Schema NODE client v3.0.11
 
 Additional Dependencies:
-# DOTENV v6
-# Load-JSON-File v5
-# Babel-Preset-Env v1.7
-# Babel-Plugin-Transform-Object-Rest-Spread v6.26
+* DOTENV v6
+* Load-JSON-File v5
+* Babel-Preset-Env v1.7
+* Babel-Plugin-Transform-Object-Rest-Spread v6.26
 
 ## Useage
 
