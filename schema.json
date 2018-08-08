@@ -1,0 +1,46 @@
+{
+  "update": {
+    "pages": {
+      "extraFields": {
+        "vendor_id": {
+          "type": "objectid",
+          "default": ""
+        }
+      }
+    },
+    "categories": {
+      "extraFields": {
+        "vendor_id": {
+          "type": "objectid",
+          "default": ""
+        }
+      }
+    },
+    "products": {
+      "extraFields": {
+        "vendor_id": {
+          "type": "objectid",
+          "default": ""
+        }
+      }
+    },
+    "orders": {
+      "extraFields": {
+        "vendor_id": {
+          "type": "objectid",
+          "default": ""
+        }
+      }
+    }
+  },
+  "create": [
+    {
+      "name": "vendor",
+      "label": "Vendor",
+      "fields": {
+        "name": "string",
+        "default": ""
+      }
+    }
+  ]
+}
